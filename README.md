@@ -1,5 +1,5 @@
 # IPSelectTool
-百度IP地址查询API：https://opendata.baidu.com/api.php?query=yourIP&amp;resource_id=6006 
+百度IP地址查询API：https://opendata.baidu.com/api.php?query=yourIP&resource_id=6006 
 
 ping工具：使用python的scapy或者socket实现/或者使用Go语言开发，因为一旦IP数量多，python的运行速度确实拉胯  
 
